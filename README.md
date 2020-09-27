@@ -1,2 +1,2 @@
 # evilhackingtools
-Only the most desipicable tools.
+CUCTF{commit_history_exists}
