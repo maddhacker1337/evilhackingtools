@@ -1,2 +1,3 @@
 # evilhackingtools
 Only the most evil and filthy hacking tools. This is a work in progress...
+CUCTF{this_is_an_obvious_red_herring}
