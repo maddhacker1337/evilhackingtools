@@ -1,2 +1,2 @@
 # evilhackingtools
-CUCTF{commit_history_exists}
+Only the most evil and filthy hacking tools. This is a work in progress...
